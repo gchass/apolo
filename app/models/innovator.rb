@@ -1,0 +1,2 @@
+class Innovator < ApplicationRecord
+end
