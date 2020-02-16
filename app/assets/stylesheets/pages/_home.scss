@@ -1,0 +1,47 @@
+// Specific CSS for your home-page
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg-home {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: $blue-apolo;
+  display: flex;
+  // align-items: center;
+}
+
+.ctn-home {
+  width: 1000px;        /* Set the width */
+  margin: 0 auto;
+  text-align: center;
+  color: $blue-apolo;
+
+.ctn-home, h3 {
+  color: white;
+}
+
+  margin-top: 200px;
+}
+
+.logo {
+  width: 40px;
+}
+
+// h1 {
+//   font-family: $my-font;
+// }
+
+.re {
+  background-color:white;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+
+
+
+
